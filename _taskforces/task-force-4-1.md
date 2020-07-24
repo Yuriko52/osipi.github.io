@@ -14,8 +14,8 @@ leads:
     role: Lead
     email: d.thomas@ucl.ac.uk 
   - name: Yuriko Suzuki
-    location: Wellcome Centre for Integrative Neuroimaging, FMRIB, Oxford University, UK
-    website: https://www.researchgate.net/profile/Yuriko_Suzuki3
+    location: Wellcome Centre for Integrative Neuroimaging, FMRIB, University of Oxford, UK
+    website: https://www.ndcn.ox.ac.uk/team/yuriko-suzuki
     role: Co-lead
     email: yuriko.suzuki@ndcn.ox.ac.uk
 members:
@@ -29,16 +29,20 @@ members:
   - name: Xingfeng Shao
     location: University of Southern California, USA
   - name: Henk-Jan Mutsaerts
-    location: 
+    location: Amsterdam Medical Center, Netherlands
     website: https://www.linkedin.com/in/henk-jan-mutsaerts-8532b626/
   - name: Sudipto Dolui
     location: University of Pennsylvania, USA
     website: https://www.researchgate.net/profile/Sudipto_Dolui
+  - name: Weiying Day
+    location: State University of New York at Binghamton, USA 
+    website: https://www.binghamton.edu/computer-science/contact/profile.html?id=wdai 
 status:
   - 2020.01.15 Leads confirmed
   - 2020.02.18 Member confirmed
   - 2020.03.25 New member joined
-  - 2020.06.17 First online meeting, meet & greet, first lexicon draft/sketch created
+  - 2020.06.17 1st online meeting, meet & greet, first lexicon draft/sketch created
+  - 2020.07.22 2nd online meeting, worked on the milestone-#1 document
 links:
   - website: https://drive.google.com/drive/folders/1CxyGHIXU30CYBZmnLBfylnC4iP7ytNld
     description: |
